@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryMS.WEB", "LibraryMS.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryMS.Core", "LibraryMS.Core\LibraryMS.Core.csproj", "{A9E82E5A-4BC0-4A72-9FD6-960BDE2A48CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryMS.Infrastructure", "LibraryMS.Infrastructure\LibraryMS.Infrastructure.csproj", "{DA73A6D4-6541-4147-B9A7-E876CB77B18F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryMS.Infrastructure", "LibraryMS.Infrastructure\LibraryMS.Infrastructure.csproj", "{DA73A6D4-6541-4147-B9A7-E876CB77B18F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

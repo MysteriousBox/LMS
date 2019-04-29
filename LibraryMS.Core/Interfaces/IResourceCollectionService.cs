@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibraryMS.Core.Interfaces
 {
-    interface IResourceCollectionService
+    public interface IResourceCollectionService
     {
        
     }
